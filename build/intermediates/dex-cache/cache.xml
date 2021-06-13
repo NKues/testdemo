@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\workspase\aswork\YixinCaipiaoPro\app\libs\universalimageloaderlibrary1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="323b008ada76d0ab3140d9fea55f4242c613aa31">
+        <dex dex="F:\workspase\aswork\YixinCaipiaoPro\app\build\intermediates\pre-dexed\debug\universalimageloaderlibrary1.9.0_8ce622b58c617e00d269abdfbe3607b33e3e6833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspase\aswork\TestDemo\app\libs\universalimageloaderlibrary1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="323b008ada76d0ab3140d9fea55f4242c613aa31">
+        <dex dex="F:\workspase\aswork\TestDemo\app\build\intermediates\pre-dexed\debug\universalimageloaderlibrary1.9.0_4a79ed4ca6f89b08e5c22c26ac898ac4360917c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspase\aswork\TestDemo\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc03206b4628e64ec5aecd15882001406e625533">
+        <dex dex="F:\workspase\aswork\TestDemo\app\build\intermediates\pre-dexed\debug\volley_a7887b4edd0337ef337edb9644774876efa8de21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspase\aswork\YixinCaipiaoPro\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc03206b4628e64ec5aecd15882001406e625533">
+        <dex dex="F:\workspase\aswork\YixinCaipiaoPro\app\build\intermediates\pre-dexed\debug\volley_4bca193e30ded7997740bb41b2a5f3ba0b016ad4.jar" />
+    </item>
+
+</items>
